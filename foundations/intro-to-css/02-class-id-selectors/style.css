@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.wow {
+    background-color: pink;
+    font-family: sans-serif;
+    font-family: Verdana;
+    font-family: DejaVu Sans;
+}
+#bangi {
+    color: blue;
+    font-size: 36px;
+}
+#full {
+    font-size: 24px;
+}
+#fol {
+    background-color: green;
+    font-size: 24px;
+}
