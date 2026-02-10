@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.gg {
+    background-color: black;
+    color: white;
+}
+.hh {
+    background-color: yellow;
+}
+.gg,
+.hh {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, sans-serif;
+}
